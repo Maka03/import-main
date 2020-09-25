@@ -9,8 +9,8 @@
       "python"
     ],
     "repository": "https://github.com/lzzy12/python-aria-mirror-bot",
-    "website": "https://github.com/smokedlasan/python-aria-mg",
-    "success_url": "https://github.com/smokedlasan/python-aria-mg/blob/master/README.md",
+    "website": "https://github.com/Maka03/import-main",
+    "success_url": "https://github.com/Maka03/import-main/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
