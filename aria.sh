@@ -17,4 +17,4 @@ aria2c --enable-rpc --rpc-listen-all=false --rpc-listen-port 6800 \
    --daemon=true --allow-overwrite=true --max-overall-download-limit=$MAX_DOWNLOAD_SPEED \
    --max-overall-upload-limit=1K --max-concurrent-downloads=$MAX_CONCURRENT_DOWNLOADS \
    --bt-tracker=$tracker --bt-max-peers=0 
-   --peer-agent=qBittorrent/4.2.5 —peer-id-prefix=-qB4250-
+   --peer-agent=qBittorrent/4.2.5 --peer-id-prefix=-qB4250-
